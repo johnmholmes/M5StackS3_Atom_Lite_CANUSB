@@ -7,6 +7,8 @@
 
 Bidirectional bridge between OpenLCB/LCC (CAN @ 125 kbit/s) and JMRI GridConnect protocol for the **M5Stack AtomS3 Lite**.
 
+## This is a tool to allow you to test Can nodes on a work bench only. It may not be able to cope with to many nodes starting up all at once. I created this to allow me to test nodes when away from my layout. But have shared it to assist others who are trying to get into OpenLCB.
+
 ## Hardware Options
 
 ### 1. Grove Port (Unit Mini CAN)
